@@ -1,0 +1,28 @@
+h1{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background-color: pink;
+    border-radius: 20px;
+    text-align: center;
+}
+#chocoimage{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    left: 530px;
+    border-width: 10px;
+    border-color: pink;
+    border-radius: 10%;
+    border-style: solid;
+}
+h3{
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border-style: dashed;
+    border-color: pink;
+}
+li{
+    font-size: 20px;
+}

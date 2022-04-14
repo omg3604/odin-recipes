@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    background-color: pink;
+    color: black;
+    text-align: center;
+    border-radius: 10%;
+}
+#recipe_image{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    position: relative;
+    left: 570px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+h2{
+    font-weight: bold;
+    text-align: center;
+    background-color: pink;
+}
+#recipelist{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
